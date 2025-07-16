@@ -1,6 +1,6 @@
 # brverse - Lista de pacotes de R para acesso a dados brasileiros: 
 
-Esse repositório traz uma lista de pacotes de R e Python para acesso a dados brasileiros. O que estamos chamando carinhosamente de **'brverse'**
+Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros, o que estamos chamando carinhosamente de **'brverse'**
 
 ## Espaciais e de endereços:
 
