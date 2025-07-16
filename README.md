@@ -4,16 +4,16 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 
 ## Espaciais e de endereços:
 
-- [enderecobr]((https://ipeagit.github.io/enderecobr)): Padronizador de Endereços Brasileiros (Brazilian Addresses Standardizer)
-- [geobr]((https://ipeagit.github.io/geobr)): Download Official Spatial Data Sets of Brazil
-- [geocodebr]((https://ipeagit.github.io/geocodebr)): Geolocalização De Endereços Brasileiros (Geocoding Brazilian Addresses)
+- [enderecobr](https://ipeagit.github.io/enderecobr): Padronizador de Endereços Brasileiros (Brazilian Addresses Standardizer)
+- [geobr](https://ipeagit.github.io/geobr): Download Official Spatial Data Sets of Brazil
+- [geocodebr](https://ipeagit.github.io/geocodebr): Geolocalização De Endereços Brasileiros (Geocoding Brazilian Addresses)
 - [cepR](https://CRAN.R-project.org/package=cepR): Busca CEPs Brasileiros
 
   
 ## Eleitorais e Política
 
 - [speechbr](https://CRAN.R-project.org/package=speechbr): Access the Speechs and Speaker's Informations of House of Representatives of Brazil
-- [electionsBR]((https://electionsbr.com/novo/)): R Functions to Download and Clean Brazilian Electoral Data
+- [electionsBR](https://electionsbr.com/novo/): R Functions to Download and Clean Brazilian Electoral Data
 
 
 ## Economia e Finanças
