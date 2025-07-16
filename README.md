@@ -19,7 +19,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 ## Economia e Finanças
 
 - [ipeadatar](https://CRAN.R-project.org/package=ipeadatar ): API Wrapper for 'Ipeadata'
-- [orcamentoBR]((https://CRAN.R-project.org/package=orcamentoBR)): Download Official Data on Brazil's Federal Budget
+- [orcamentoBR](https://CRAN.R-project.org/package=orcamentoBR): Download Official Data on Brazil's Federal Budget
 - [deflateBR](https://github.com/meirelesff/deflatebr/): Deflate Nominal Brazilian Reais
 - [siconvr](https://CRAN.R-project.org/package=siconvr): Fetch Data from Plataforma +Brasil (SICONV)
 - [BacenAPI](https://CRAN.R-project.org/package=BacenAPI): Data Collection from the Central Bank of Brazil
@@ -31,7 +31,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 
 ## Meio ambiente
 
-- [brclimr]((https://rfsaldanha.github.io/brclimr/)): Fetch Zonal Statistics of Weather Indicators for Brazilian Municipalities
+- [brclimr](https://rfsaldanha.github.io/brclimr/): Fetch Zonal Statistics of Weather Indicators for Brazilian Municipalities
 - [BrazilMet](https://CRAN.R-project.org/package=BrazilMet): Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil
 - [florabr](https://wevertonbio.github.io/florabr/): Explore Flora e Funga do Brasil Database
 - [flora](https://CRAN.R-project.org/package=flora): Tools for Interacting with the Brazilian Flora 2020
@@ -45,7 +45,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 
 ## População e dados sócioeconômicos
 
-- [censobr]((https://ipeagit.github.io/censobr)): Download Data from Brazil's Population Census
+- [censobr](https://ipeagit.github.io/censobr): Download Data from Brazil's Population Census
 - [brpop](https://rfsaldanha.github.io/brpop/): Brazilian Population Estimatives
 - [PNADcIBGE](https://CRAN.R-project.org/package=PNADcIBGE): Downloading, Reading and Analyzing PNADC Microdata
 
@@ -64,8 +64,8 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 
 ## Transportes
 
-- [flightsbr]((https://ipeagit.github.io/flightsbr)): Download Flight and Airport Data from Brazil
-- [aopdata]((https://ipeagit.github.io/aopdata)): Data from the Access to Opportunities Project
+- [flightsbr](https://ipeagit.github.io/flightsbr): Download Flight and Airport Data from Brazil
+- [aopdata](https://ipeagit.github.io/aopdata): Data from the Access to Opportunities Project
 - [odbr](https://hsvab.github.io/odbr/): Download Data from Brazil's Origin Destination Surveys
 
 
