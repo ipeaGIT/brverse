@@ -18,7 +18,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 
 ## Economia e Finanças
 
-- [ipeadatar](https://CRAN.R-project.org/package=ipeadatar ): API Wrapper for 'Ipeadata'
+- [ipeadatar](https://CRAN.R-project.org/package=ipeadatar): API Wrapper for 'Ipeadata'
 - [orcamentoBR](https://CRAN.R-project.org/package=orcamentoBR): Download Official Data on Brazil's Federal Budget
 - [deflateBR](https://github.com/meirelesff/deflatebr/): Deflate Nominal Brazilian Reais
 - [siconvr](https://CRAN.R-project.org/package=siconvr): Fetch Data from Plataforma +Brasil (SICONV)
@@ -54,7 +54,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 
 - [microdatasus](https://rfsaldanha.github.io/microdatasus/): Download and Process 'DataSUS' Files
 - [PNSIBGE](https://CRAN.R-project.org/package=PNSIBGE): Downloading, Reading and Analyzing PNS Microdata
-- [COVIDIBGE](https://CRAN.R-project.org/package=COVIDIBGE ): Downloading, Reading and Analyzing PNAD COVID19 Microdata
+- [COVIDIBGE](https://CRAN.R-project.org/package=COVIDIBGE): Downloading, Reading and Analyzing PNAD COVID19 Microdata
 
 
 ## Segurança pública
@@ -75,4 +75,5 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [owdbr](https://CRAN.R-project.org/package=owdbr): Open Welfare Data Brazil
 - [abjData](https://abjur.github.io/abjData/): Databases Used Routinely by the Brazilian Jurimetrics Association
 - [aebdata](https://ipea.github.io/aebdata/): Access Data from the Atlas do Estado Brasileiro
+- [sidrar](https://CRAN.R-project.org/package=sidrar): An Interface to IBGE's SIDRA API
 
