@@ -2,19 +2,6 @@
 
 Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros, o que estamos chamando carinhosamente de **'brverse'**
 
-## Espaciais e de endereços:
-
-- [enderecobr](https://ipeagit.github.io/enderecobr): Padronizador de Endereços Brasileiros (Brazilian Addresses Standardizer)
-- [geobr](https://ipeagit.github.io/geobr): Download Official Spatial Data Sets of Brazil
-- [geocodebr](https://ipeagit.github.io/geocodebr): Geolocalização De Endereços Brasileiros (Geocoding Brazilian Addresses)
-- [cepR](https://CRAN.R-project.org/package=cepR): Busca CEPs Brasileiros
-
-  
-## Eleitorais e Política
-
-- [speechbr](https://CRAN.R-project.org/package=speechbr): Access the Speechs and Speaker's Informations of House of Representatives of Brazil
-- [electionsBR](https://electionsbr.com/novo/): R Functions to Download and Clean Brazilian Electoral Data
-
 
 ## Economia e Finanças
 
@@ -27,6 +14,20 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [GetTDData](https://msperlin.github.io/GetTDData/): Get Data for Brazilian Bonds (Tesouro Direto)
 - [bndesr](https://CRAN.R-project.org/package=bndesr): Access Data from the Brazilian Development Bank (BNDES)
 - [BETS](https://CRAN.R-project.org/package=BETS): Brazilian Economic Time Series
+
+  
+## Eleitorais e Política
+
+- [electionsBR](https://electionsbr.com/novo/): R Functions to Download and Clean Brazilian Electoral Data
+- [speechbr](https://CRAN.R-project.org/package=speechbr): Access the Speechs and Speaker's Informations of House of Representatives of Brazil
+
+
+## Espaciais e de endereços:
+
+- [enderecobr](https://ipeagit.github.io/enderecobr): Padronizador de Endereços Brasileiros (Brazilian Addresses Standardizer)
+- [geobr](https://ipeagit.github.io/geobr): Download Official Spatial Data Sets of Brazil
+- [geocodebr](https://ipeagit.github.io/geocodebr): Geolocalização De Endereços Brasileiros (Geocoding Brazilian Addresses)
+- [cepR](https://CRAN.R-project.org/package=cepR): Busca CEPs Brasileiros
 
 
 ## Meio ambiente
@@ -43,7 +44,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [genderBR](https://CRAN.R-project.org/package=genderBR): Predict Gender from Brazilian First Names
 
 
-## População e dados sócioeconômicos
+## População e dados socioeconômicos
 
 - [censobr](https://ipeagit.github.io/censobr): Download Data from Brazil's Population Census
 - [brpop](https://rfsaldanha.github.io/brpop/): Brazilian Population Estimatives
@@ -65,8 +66,8 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 ## Transportes
 
 - [flightsbr](https://ipeagit.github.io/flightsbr): Download Flight and Airport Data from Brazil
-- [aopdata](https://ipeagit.github.io/aopdata): Data from the Access to Opportunities Project
 - [odbr](https://hsvab.github.io/odbr/): Download Data from Brazil's Origin Destination Surveys
+- [aopdata](https://ipeagit.github.io/aopdata): Data from the Access to Opportunities Project
 
 
 ## Miscelânea
