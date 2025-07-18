@@ -61,7 +61,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 ## Segurança pública
 
 - [BrazilCrime](https://CRAN.R-project.org/package=BrazilCrime): Accesses Brazilian Public Security Data from SINESP Since 2015
-
+- [ispdata](https://CRAN.R-project.org/package=ispdata): Access Public Security data from Rio de Janeiro
 
 ## Transportes
 
