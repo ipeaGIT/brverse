@@ -78,3 +78,4 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [aebdata](https://ipea.github.io/aebdata/): Access Data from the Atlas do Estado Brasileiro
 - [sidrar](https://CRAN.R-project.org/package=sidrar): An Interface to IBGE's SIDRA API
 - [basedosdados](https://cran.r-project.org/web/packages/basedosdados/index.html): An R interface to the 'Base dos Dados' API
+- [dail](https://CRAN.R-project.org/package=dail): Access Data from Brazilian FOIA Requests and Appeals
