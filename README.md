@@ -14,7 +14,6 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [GetTDData](https://msperlin.github.io/GetTDData/): Get Data for Brazilian Bonds (Tesouro Direto)
 - [bndesr](https://CRAN.R-project.org/package=bndesr): Access Data from the Brazilian Development Bank (BNDES)
 - [BETS](https://CRAN.R-project.org/package=BETS): Brazilian Economic Time Series
-
   
 ## Eleitorais e Política
 
@@ -63,7 +62,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 ## Segurança pública
 
 - [BrazilCrime](https://CRAN.R-project.org/package=BrazilCrime): Accesses Brazilian Public Security Data from SINESP Since 2015
-
+- [ispdata](https://CRAN.R-project.org/package=ispdata): Access Public Security data from Rio de Janeiro
 
 ## Transportes
 
@@ -80,3 +79,4 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [aebdata](https://ipea.github.io/aebdata/): Access Data from the Atlas do Estado Brasileiro
 - [sidrar](https://CRAN.R-project.org/package=sidrar): An Interface to IBGE's SIDRA API
 - [basedosdados](https://cran.r-project.org/web/packages/basedosdados/index.html): An R interface to the 'Base dos Dados' API
+- [dail](https://CRAN.R-project.org/package=dail): Access Data from Brazilian FOIA Requests and Appeals
