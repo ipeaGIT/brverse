@@ -41,6 +41,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 ## Nomes
 
 - [genderBR](https://CRAN.R-project.org/package=genderBR): Predict Gender from Brazilian First Names
+- [metaphonebr](https://ipeadata-lab.github.io/metaphonebr/):  Simplifies brazilian names phonetically using a custom metaphoneBR algorithm that preserves ending vowels, created for aiding in dataset pairing in the absence of unambiguous keys.
 - [nomesbr](https://ipeadata-lab.github.io/nomesbr/): Limpa e Simplifica Nomes de Pessoas para auxiliar no pareamento de banco de dados na ausência de chaves únicas não ambíguas
 - [SoundexBR](https://CRAN.R-project.org/package=SoundexBR): Phonetic-Coding for Portuguese
 
