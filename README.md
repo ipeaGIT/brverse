@@ -50,13 +50,10 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [censobr](https://ipeagit.github.io/censobr): Download Data from Brazil's Population Census
 - [brpop](https://rfsaldanha.github.io/brpop/): Brazilian Population Estimates
 - [PNADcIBGE](https://CRAN.R-project.org/package=PNADcIBGE): Downloading, Reading and Analyzing PNADC Microdata
-- [datazoom.social](https://github.com/datazoompuc/datazoom.social): Adds Panel Identification to the PNADC, Enabling Individual-Level Tracking Over Time
-
 
 ## Saúde
 
 - [microdatasus](https://rfsaldanha.github.io/microdatasus/): Download and Process 'DataSUS' Files
-- [datazoom.saude](https://github.com/datazoompuc/datazoom.saude): Facilitates access to multiple 'DataSUS' datasets
 - [PNSIBGE](https://CRAN.R-project.org/package=PNSIBGE): Downloading, Reading and Analyzing PNS Microdata
 - [COVIDIBGE](https://CRAN.R-project.org/package=COVIDIBGE): Downloading, Reading and Analyzing PNAD COVID19 Microdata
 
