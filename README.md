@@ -14,7 +14,6 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [GetTDData](https://msperlin.github.io/GetTDData/): Get Data for Brazilian Bonds (Tesouro Direto)
 - [bndesr](https://CRAN.R-project.org/package=bndesr): Access Data from the Brazilian Development Bank (BNDES)
 - [BETS](https://CRAN.R-project.org/package=BETS): Brazilian Economic Time Series
-
   
 ## Eleitorais e Política
 
@@ -41,6 +40,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 ## Nomes
 
 - [genderBR](https://CRAN.R-project.org/package=genderBR): Predict Gender from Brazilian First Names
+- [metaphonebr](https://ipeadata-lab.github.io/metaphonebr/):  Simplifies brazilian names phonetically using a custom metaphoneBR algorithm that preserves ending vowels, created for aiding in dataset pairing in the absence of unambiguous keys.
 - [nomesbr](https://ipeadata-lab.github.io/nomesbr/): Limpa e Simplifica Nomes de Pessoas para auxiliar no pareamento de banco de dados na ausência de chaves únicas não ambíguas
 - [SoundexBR](https://CRAN.R-project.org/package=SoundexBR): Phonetic-Coding for Portuguese
 
@@ -61,7 +61,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 ## Segurança pública
 
 - [BrazilCrime](https://CRAN.R-project.org/package=BrazilCrime): Accesses Brazilian Public Security Data from SINESP Since 2015
-
+- [ispdata](https://CRAN.R-project.org/package=ispdata): Access Public Security data from Rio de Janeiro
 
 ## Transportes
 
