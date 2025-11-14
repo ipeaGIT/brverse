@@ -1,6 +1,6 @@
 # brverse - Lista de pacotes de R para acesso a dados brasileiros: <img align="right" src="brverse_logo.png?raw=true" alt="logo" width="180">
 
-Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros, o que estamos chamando carinhosamente de **'brverse'**
+Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros, o que estamos chamando carinhosamente de **'brverse'**. Nossa política é colocar somente pacotes que estejam publicados no CRAN.
 
 
 ## Economia e Finanças
