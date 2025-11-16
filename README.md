@@ -35,6 +35,9 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [BrazilMet](https://CRAN.R-project.org/package=BrazilMet): Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil
 - [florabr](https://wevertonbio.github.io/florabr/): Explore Flora e Funga do Brasil Database
 - [flora](https://CRAN.R-project.org/package=flora): Tools for Interacting with the Brazilian Flora 2020
+- [amphiBR](https://paulobarros.github.io/amphiBR/index.html): Brazilian amphibian species dataset
+- [geobr](https://ipeagit.github.io/geobr): Download Brazilian biomes, conservation units and indigenous legal protected areas shapefiles
+- [hydrobr](https://github.com/lhmet/hydrobr): Select, download and clean data from pluvio- and fluviometric stations from the Brazilian National Water Agency (pt: Agência Nacional de Águas - ANA)
 
 
 ## Nomes
