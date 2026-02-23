@@ -72,10 +72,11 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 
 ## Miscelânea
 
-- [numbersBR](https://CRAN.R-project.org/package=numbersBR): Validate, Compare and Format Identification Numbers from Brazil
-- [owdbr](https://CRAN.R-project.org/package=owdbr): Open Welfare Data Brazil
 - [abjData](https://abjur.github.io/abjData/): Databases Used Routinely by the Brazilian Jurimetrics Association
 - [aebdata](https://ipea.github.io/aebdata/): Access Data from the Atlas do Estado Brasileiro
-- [sidrar](https://CRAN.R-project.org/package=sidrar): An Interface to IBGE's SIDRA API
 - [basedosdados](https://cran.r-project.org/web/packages/basedosdados/index.html): An R interface to the 'Base dos Dados' API
 - [datazoom.amazonia](https://cran.r-project.org/package=datazoom.amazonia): Simplify Access to Data from the Amazon Region
+- [numbersBR](https://CRAN.R-project.org/package=numbersBR): Validate, Compare and Format Identification Numbers from Brazil
+- [owdbr](https://CRAN.R-project.org/package=owdbr): Open Welfare Data Brazil
+- [sidrar](https://CRAN.R-project.org/package=sidrar): An Interface to IBGE's SIDRA API
+- [ibger](https://CRAN.R-project.org/package=ibger): Tidyverse-friendly interface to the IBGE Aggregate Data API
