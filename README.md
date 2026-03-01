@@ -14,6 +14,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [GetTDData](https://msperlin.github.io/GetTDData/): Get Data for Brazilian Bonds (Tesouro Direto)
 - [bndesr](https://CRAN.R-project.org/package=bndesr): Access Data from the Brazilian Development Bank (BNDES)
 - [BETS](https://CRAN.R-project.org/package=BETS): Brazilian Economic Time Series
+- [cpgfR](https://cran.r-project.org/web/packages/cpgfR/cpgfR.pdf): Consolidates Information from the Federal Government Payment Card
   
 ## Eleitorais e Política
 
