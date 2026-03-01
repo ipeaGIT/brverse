@@ -11,6 +11,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [siconvr](https://CRAN.R-project.org/package=siconvr): Fetch Data from Plataforma +Brasil (SICONV)
 - [BacenAPI](https://CRAN.R-project.org/package=BacenAPI): Data Collection from the Central Bank of Brazil
 - [rbcb](https://wilsonfreitas.github.io/rbcb/): R Interface to Brazilian Central Bank Web Services
+- [brfinance](https://CRAN.R-project.org/package=brfinance): Access Brazilian macroeconomic and financial time series with tidy outputs
 - [GetTDData](https://msperlin.github.io/GetTDData/): Get Data for Brazilian Bonds (Tesouro Direto)
 - [bndesr](https://CRAN.R-project.org/package=bndesr): Access Data from the Brazilian Development Bank (BNDES)
 - [BETS](https://CRAN.R-project.org/package=BETS): Brazilian Economic Time Series
