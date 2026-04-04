@@ -15,7 +15,11 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [GetTDData](https://cloud.r-project.org/web/packages/GetTDData/index.html): Get Data for Brazilian Bonds (Tesouro Direto)
 - [bndesr](https://CRAN.R-project.org/package=bndesr): Access Data from the Brazilian Development Bank (BNDES)
 - [BETS](https://CRAN.R-project.org/package=BETS): Brazilian Economic Time Series
-  
+
+## Educação
+
+- [educabR](https://CRAN.R-project.org/package=educabR): Download and Process Brazilian Education Data from INEP
+
 ## Eleitorais e Política
 
 - [electionsBR](https://electionsbr.com/novo/): R Functions to Download and Clean Brazilian Electoral Data
