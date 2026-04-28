@@ -9,13 +9,20 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [orcamentoBR](https://CRAN.R-project.org/package=orcamentoBR): Download Official Data on Brazil's Federal Budget
 - [deflateBR](https://github.com/meirelesff/deflatebr/): Deflate Nominal Brazilian Reais
 - [siconvr](https://CRAN.R-project.org/package=siconvr): Fetch Data from Plataforma +Brasil (SICONV)
+- [bacenR](https://cran.r-project.org/web/packages/bacenR/index.html): Access Data from Brazilian Central Bank: IFdata, Active Institutions, Balance Sheets and Normative Acts
 - [BacenAPI](https://CRAN.R-project.org/package=BacenAPI): Data Collection from the Central Bank of Brazil
 - [rbcb](https://wilsonfreitas.github.io/rbcb/): R Interface to Brazilian Central Bank Web Services
+- [brfinance](https://CRAN.R-project.org/package=brfinance): Access Brazilian macroeconomic and financial time series with tidy outputs
 - [GetTDData](https://msperlin.github.io/GetTDData/): Get Data for Brazilian Bonds (Tesouro Direto)
 - [bndesr](https://CRAN.R-project.org/package=bndesr): Access Data from the Brazilian Development Bank (BNDES)
 - [BETS](https://CRAN.R-project.org/package=BETS): Brazilian Economic Time Series
 - [cpgfR](https://CRAN.R-project.org/package=cpgfR): Consolidates Information from the Federal Government Payment Card
   
+
+## Educação
+
+- [educabR](https://CRAN.R-project.org/package=educabR): Download and Process Brazilian Education Data from INEP
+
 ## Eleitorais e Política
 
 - [electionsBR](https://electionsbr.com/novo/): R Functions to Download and Clean Brazilian Electoral Data
@@ -73,10 +80,12 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 
 ## Miscelânea
 
-- [numbersBR](https://CRAN.R-project.org/package=numbersBR): Validate, Compare and Format Identification Numbers from Brazil
-- [owdbr](https://CRAN.R-project.org/package=owdbr): Open Welfare Data Brazil
 - [abjData](https://abjur.github.io/abjData/): Databases Used Routinely by the Brazilian Jurimetrics Association
 - [aebdata](https://ipea.github.io/aebdata/): Access Data from the Atlas do Estado Brasileiro
-- [sidrar](https://CRAN.R-project.org/package=sidrar): An Interface to IBGE's SIDRA API
 - [basedosdados](https://cran.r-project.org/web/packages/basedosdados/index.html): An R interface to the 'Base dos Dados' API
-- [datazoom.amazonia](https://github.com/datazoompuc/datazoom.amazonia): Facilitates Access to Multiple Datasets on the Legal Amazon
+- [datazoom.amazonia](https://cran.r-project.org/package=datazoom.amazonia): Simplify Access to Data from the Amazon Region
+- [documentosbr](https://CRAN.R-project.org/package=documentosbr): Validate Brazilian Administrative Registers - Valida Documentos
+- [numbersBR](https://CRAN.R-project.org/package=numbersBR): Validate, Compare and Format Identification Numbers from Brazil
+- [owdbr](https://CRAN.R-project.org/package=owdbr): Open Welfare Data Brazil
+- [sidrar](https://CRAN.R-project.org/package=sidrar): An Interface to IBGE's SIDRA API
+- [ibger](https://CRAN.R-project.org/package=ibger): Tidyverse-friendly interface to the IBGE Aggregate Data API
